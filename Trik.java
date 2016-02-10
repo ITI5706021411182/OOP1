@@ -1,3 +1,9 @@
+/**
+ * Mr.Peerawich Srijan
+ * ITI-2RC
+ * 5706021411182
+ * Trik
+ */
 import java.util.Scanner;
 public class Trik {
 
