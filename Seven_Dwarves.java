@@ -4,6 +4,7 @@ public class Seven_Dwarves {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//Seven_Dwarves
 		int dwarf1,dwarf2,dwarf3,dwarf4,dwarf5,dwarf6,dwarf7,dwarf8,dwarf9=0;
 		Scanner scandwarf = new  Scanner(System.in);
 		dwarf1=scandwarf.nextInt();
